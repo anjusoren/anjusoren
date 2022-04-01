@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @anjusoren
-- 👀 I’m interested in Virtual-Systems and cloud Security
-- 🌱 I’m currently learning Automation and Scripting
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 Contact me using anju_soren@pm.me
 
