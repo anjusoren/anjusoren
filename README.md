@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @anjusoren
+- 🌱 I am currently learning frontend web development (HTML, CSS and JavaScript)
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 Contact me using anju_soren@pm.me
 
